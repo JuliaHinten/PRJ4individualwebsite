@@ -7,6 +7,7 @@
 
 h5 { 
 	box-sizing: border-box;
+	color: #FF7C15;
 	
 }
 
@@ -18,7 +19,7 @@ h5 {
 /* CSS Document */ 
 
 h1 {
-	color:#FA6096; 
+	color:#ED4672; 
 	font-size: 60px; 
 	text-transform:capitalize;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
@@ -45,16 +46,43 @@ h1 {
 }
 
 .marginh5 { 
-	margin-top: 40px;
+	margin-top: 20px;
 }
 
 .main-background {
-	background-attachment: #FAF1EB;
+	background-color: #FAF1E8;
 }
 
+.resumetab {
+	background-color: #FAF1E8;
+}
 
+.profexp {
+	color: #F38FAA;
+}
 
+.boxnative {
+	border-color: #F59EB5;
+}
 
+.contact {
+	color: #F38FAA;
+}
 
+.education {
+	color: #F38FAA;
+}
+
+.otherskills {
+	color:#F38FAA;
+}
+
+.languages {
+	color: #F38FAA;
+}
+
+.intandhobbies {
+	color: #F38FAA;
+}
 
 
