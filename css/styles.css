@@ -23,9 +23,38 @@ h1 {
 	text-transform:capitalize;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	box-sizing: border-box;
-	text-shadow: 25px 38px;
 	font-weight: 800;
 	writing-mode: horizontal;
+	
 } 
+
+.marginlogobuas {
+	margin-right: 30px;
+} 
+
+.marginlogoinsta {
+	margin-right: 58px 
+}
+
+.marginlogolinkedin { 
+	margin-right: 60px; 
+}
+
+.marginlogotel {
+	margin-right: 60px;
+}
+
+.marginh5 { 
+	margin-top: 40px;
+}
+
+.main-background {
+	background-attachment: #FAF1EB;
+}
+
+
+
+
+
 
 
