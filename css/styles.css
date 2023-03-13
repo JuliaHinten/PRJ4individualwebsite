@@ -5,12 +5,16 @@
 	background-color: #FAF1E8;
 }
 
-h5 { 
-	box-sizing: border-box;
-	color: #FF7C15;
-	
+.resumebackground { 
+	background-color: #F59FB6;
 }
 
+.mediatagline { 
+	box-sizing: border-box;
+	color: #F38FAA; 
+	margin-top: 20px;
+}
+	
 .body {
 	background-color: #FFA45B;
 	margin: 0;
@@ -45,10 +49,6 @@ h1 {
 	margin-right: 60px;
 }
 
-.marginh5 { 
-	margin-top: 20px;
-}
-
 .main-background {
 	background-color: #FAF1E8;
 }
@@ -58,7 +58,7 @@ h1 {
 }
 
 .profexp {
-	color: #F38FAA;
+	color: #FF6823;
 }
 
 .boxnative {
@@ -66,23 +66,87 @@ h1 {
 }
 
 .contact {
-	color: #F38FAA;
+	color: #FF6823;
 }
 
 .education {
-	color: #F38FAA;
+	color: #FF6823;
 }
 
 .otherskills {
-	color:#F38FAA;
+	color:#FF6823;
 }
 
 .languages {
-	color: #F38FAA;
+	color: #FF6823;
 }
 
 .intandhobbies {
-	color: #F38FAA;
+	color: #FF6823;
 }
+
+.filmgraduate { 
+	color: #FF8348;
+}
+
+.kw1cyears {
+	color: #FF8348;
+}
+
+.kw1csentenceone {
+	color: #FF18A3;
+}
+
+.kw1csentencetwo {
+	color: #FF18A3;
+}
+
+.kw1csentencethree {
+	color: #FF18A3;
+}
+
+.distribcentre {
+	color: #FF6823;
+}
+
+.eugyears {
+	color: #FF8348;
+}
+
+.fitcoachtitle {
+	color: #FF6823;
+}
+
+.fitcoachyears {
+	color: #FF8348;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
